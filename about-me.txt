@@ -5,3 +5,4 @@ I am learning coding.
  - Arduino and ESP32
  - Python and Java
  - Jpb preparation
+My goal : Become a skilled ECE engineer and software developer
