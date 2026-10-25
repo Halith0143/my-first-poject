@@ -1,0 +1,7 @@
+Hello GitHub !
+
+I am learning coding.
+ - ECE projects
+ - Arduino and ESP32
+ - Python and Java
+ - Jpb preparation
